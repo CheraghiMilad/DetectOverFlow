@@ -1,1 +1,2 @@
 # DetectOverFlow
+When we talk about an overflow vulnerability, part of it has to do with calling the function correctly and returning the correct address to the calling function. An interesting and attractive idea is to use a debugger to monitor the functions called and their returns in the program and print the appropriate message if an overflow occurs. (Note: This project is not complete at the moment and I will spend time to develop the code and further description of the document as soon as possible.)
